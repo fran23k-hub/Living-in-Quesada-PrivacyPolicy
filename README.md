@@ -1,2 +1,2 @@
-# zaarie-privacy
-Privacy Policy page for the Zaarie app
+# Living in Quesada-privacy
+Privacy Policy page for the Living in Quesada app
